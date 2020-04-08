@@ -1,4 +1,4 @@
-# phpsession
+# php session
 Open and close a session, in login procedure.
 
 
