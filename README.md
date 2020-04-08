@@ -1,5 +1,5 @@
 # phpsession
-open and close a session, in login procedure.
+Open and close a session, in login procedure.
 
 
 This project using php language and presents the use of session's and 
